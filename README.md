@@ -1,2 +1,2 @@
-# communion Faith Assembly Administrative Portal
+# Communion Faith Assembly Administrative Portal
 CFA Portal
