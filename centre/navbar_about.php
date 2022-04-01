@@ -5,7 +5,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</a>
-                   <a class="brand" href="#">CIA Management Portal</a>
+                   <a class="brand" href="#">CFA Administrative Portal</a>
 							<div class="nav-collapse collapse">
 								<ul class="nav pull-right">
 	

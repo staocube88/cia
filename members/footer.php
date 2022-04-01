@@ -1,6 +1,6 @@
 <div class="setfooter">
 		<footer >
-           <p align="center"><h3 align="center"> &copy; CIA Management Portal <?php
+           <p align="center"><h3 align="center"> &copy; CFA Administrative Portal <?php
  $date = new DateTime();
  echo $date->format(' Y');
  ?> </h3></p>

@@ -11,7 +11,7 @@
 				<div class="empty">
                     <div class="alert alert-success alert-dismissable">
                         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                         <i class="icon-info-sign"></i>  <strong>Note!:</strong> Select the checbox if you want to delete?
+                         <i class="icon-info-sign"></i>  <strong>Note!:</strong> Select the checkbox if you want to delete?
                     </div>
                 </div>
 				

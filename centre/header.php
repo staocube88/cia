@@ -2,7 +2,7 @@
 <html class="no-js">
     <head>
 		
-			<title>CIA Management Portal</title>
+			<title>CFA Administrative Portal</title>
 		<meta name="description" content="Church management">
 		<meta name="keywords" content="">
 		<meta name="author" content="Complanet Technologies">

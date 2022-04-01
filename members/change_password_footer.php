@@ -1,5 +1,5 @@
 <div style="text-align:center">
 		<footer>
-           <p>Christ Image Assembly Church Management Portal</p>
+           <p>Communion Faith Assembly Administrative Portal</p>
         <footer>
 </div>

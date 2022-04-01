@@ -5,7 +5,7 @@ dbcon();
 <!DOCTYPE html>
 <html class="no-js">
     <head>
-        <title>CIA Management Portal</title>
+        <title>CFA Administrative Portal</title>
 		<meta name="description" content="church management">
 		<meta name="author" content="Complanet Technologies">
 		<meta charset="UTF-8">	

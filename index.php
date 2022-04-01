@@ -7,7 +7,7 @@
     <head>
         <meta charset="UTF-8" />
         <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  -->
-        <title>CIA MANAGEMENT PORTAL</title>
+        <title>CFA ADMINISTRATIVE  PORTAL</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <meta name="description" content="Church Manager" />
         <meta name="keywords" content="Church, Manager, Member registration, Donation, Tithe Manager" />
@@ -26,7 +26,7 @@
                 <div class="clr"></div>
             </div><!--/ Codrops top bar -->
             <header>
-                <h1>CIA MANAGEMENT PORTAL <span>LOGIN</span></h1>
+                <h1>CFA ADMINISTRATIVE PORTAL <span>LOGIN</span></h1>
 				
             </header>
             <section>				
@@ -101,11 +101,15 @@
                                     <label for="usernamesignup" class="uname" data-icon="u">Ministry</label>
                                     <select name="ministry" id="usernamesignup" required="required" type="text">
   <option value="None">None</option>
-  <option value="Praise and Worship">Praise and Worship</option>
-  <option value="Ushering">Ushering</option>
-  <option value="Hostessing">Hostessing</option>
-  <option value="Media and IT">Media and IT</option>
-  <option value="Sunday School">Sunday School</option>
+  <option value="Worship">Worship Team</option>
+  <option value="Ushering">Ushering/Protocol Team</option>
+  <option value="Intercession">Prayer Team</option>
+  <option value="Media and IT">Media and IT Team</option>
+  <option value="Sanctuary">Sanctuary Team</option>
+  <option value="Evangelism">Evangelism Team</option>
+  <option value="Teaching">Teaching Team</option>
+  <option value="Technical Team">Teachnical Team</option>
+  <option value="Economic">Economic / Program Team </option>
 </select> 
                                 </p>
 								 <p> 
